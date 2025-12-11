@@ -1,0 +1,1 @@
+var n=(a,s,t)=>new Promise((o,l)=>{var p=e=>{try{r(t.next(e))}catch(i){l(i)}},g=e=>{try{r(t.throw(e))}catch(i){l(i)}},r=e=>e.done?o(e.value):Promise.resolve(e.value).then(p,g);r((t=t.apply(a,s)).next())});import{E as m}from"./bootstrap-CmOIY23B.js";function c(a){return n(this,null,function*(){return m.get("/table/list",{params:a})})}export{c as g};

@@ -1,0 +1,1 @@
+import{d as a,m as o,n,x as t,u as c,y as d,z as l}from"../jse/index-index-Dn7Pga_E.js";const u=a({__name:"Card",props:{class:{}},setup(r){const e=r;return(s,p)=>(n(),o("div",{class:t(c(d)("rounded-xl border border-border bg-card text-card-foreground",e.class))},[l(s.$slots,"default")],2))}});export{u as _};

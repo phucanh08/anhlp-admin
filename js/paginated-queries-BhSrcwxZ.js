@@ -1,0 +1,1 @@
+import{_ as o}from"./paginated-queries.vue_vue_type_script_setup_true_lang-B3fXhOW7.js";import"./useBaseQuery-2uhPjY7o.js";import"../jse/index-index-Dn7Pga_E.js";import"./useQuery-MkQhxMhz.js";import"./bootstrap-CmOIY23B.js";export{o as default};

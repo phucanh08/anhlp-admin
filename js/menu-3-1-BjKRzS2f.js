@@ -1,0 +1,1 @@
+import{_ as o}from"./fallback.vue_vue_type_script_setup_true_lang-fR1vCS5g.js";import{d as e,D as n,n as t,u as r}from"../jse/index-index-Dn7Pga_E.js";import"./bootstrap-CmOIY23B.js";import"./rotate-cw-CF1nnIEv.js";const u=e({__name:"menu-3-1",setup(s){return(a,m)=>(t(),n(r(o),{status:"coming-soon"}))}});export{u as default};

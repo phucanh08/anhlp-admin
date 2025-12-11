@@ -1,0 +1,1 @@
+import{d as n,m as o,n as r,x as t,u as c,y as l,z as p}from"../jse/index-index-Dn7Pga_E.js";const f=n({__name:"CardFooter",props:{class:{}},setup(s){const e=s;return(a,m)=>(r(),o("div",{class:t(c(l)("flex items-center p-6 pt-0",e.class))},[p(a.$slots,"default")],2))}});export{f as _};

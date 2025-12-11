@@ -1,0 +1,1 @@
+import{_ as e}from"./fallback.vue_vue_type_script_setup_true_lang-fR1vCS5g.js";import{d as o,D as s,n as t,u as r}from"../jse/index-index-Dn7Pga_E.js";import"./bootstrap-CmOIY23B.js";import"./rotate-cw-CF1nnIEv.js";const u=o({__name:"user-visible",setup(n){return(a,i)=>(t(),s(r(e),{description:"当前页面仅 User 账号可见",status:"coming-soon",title:"页面访问测试"}))}});export{u as default};

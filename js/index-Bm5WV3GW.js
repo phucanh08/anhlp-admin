@@ -1,0 +1,1 @@
+import{_ as o}from"./fallback.vue_vue_type_script_setup_true_lang-fR1vCS5g.js";import{d as t,D as e,n,u as r}from"../jse/index-index-Dn7Pga_E.js";import"./bootstrap-CmOIY23B.js";import"./rotate-cw-CF1nnIEv.js";const f=t({__name:"index",setup(s){return(a,i)=>(n(),e(r(o),{description:"当前页面已在新窗口内打开",status:"coming-soon",title:"新窗口打开页面"}))}});export{f as default};

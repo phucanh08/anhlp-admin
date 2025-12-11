@@ -1,0 +1,1 @@
+import{_ as e}from"./fallback.vue_vue_type_script_setup_true_lang-fR1vCS5g.js";import{d as o,D as t,n,u as s}from"../jse/index-index-Dn7Pga_E.js";import"./bootstrap-CmOIY23B.js";import"./rotate-cw-CF1nnIEv.js";const u=o({__name:"menu-visible-403",setup(r){return(a,i)=>(n(),t(s(e),{description:"当前页面用户不可见，会被重定向到403页面",status:"coming-soon",title:"页面访问测试"}))}});export{u as default};

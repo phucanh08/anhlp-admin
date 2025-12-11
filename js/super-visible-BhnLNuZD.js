@@ -1,0 +1,1 @@
+import{_ as e}from"./fallback.vue_vue_type_script_setup_true_lang-fR1vCS5g.js";import{d as o,D as t,n as r,u as s}from"../jse/index-index-Dn7Pga_E.js";import"./bootstrap-CmOIY23B.js";import"./rotate-cw-CF1nnIEv.js";const u=o({__name:"super-visible",setup(n){return(a,i)=>(r(),t(s(e),{description:"当前页面仅 Super 账号可见",status:"coming-soon",title:"页面访问测试"}))}});export{u as default};

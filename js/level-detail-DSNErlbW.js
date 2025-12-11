@@ -1,0 +1,1 @@
+import{_ as e}from"./fallback.vue_vue_type_script_setup_true_lang-fR1vCS5g.js";import{d as t,D as o,n,u as r}from"../jse/index-index-Dn7Pga_E.js";import"./bootstrap-CmOIY23B.js";import"./rotate-cw-CF1nnIEv.js";const f=t({__name:"level-detail",setup(s){return(a,i)=>(n(),o(r(e),{description:"面包屑导航-层级模式-详情页",status:"coming-soon",title:"注意观察面包屑导航变化"}))}});export{f as default};

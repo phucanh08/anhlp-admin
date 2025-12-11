@@ -1,0 +1,1 @@
+import{_ as o}from"./fallback.vue_vue_type_script_setup_true_lang-fR1vCS5g.js";import{d as t,D as e,n,u as s}from"../jse/index-index-Dn7Pga_E.js";import"./bootstrap-CmOIY23B.js";import"./rotate-cw-CF1nnIEv.js";const f=t({__name:"admin-visible",setup(i){return(r,a)=>(n(),e(s(o),{description:"当前页面仅 Admin 账号可见",status:"coming-soon",title:"页面访问测试"}))}});export{f as default};
